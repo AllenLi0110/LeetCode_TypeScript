@@ -1,8 +1,8 @@
 //Blog:https://www.allenliservice.site/leetcode-js-13-roman-to-integer/
 
 // < strong > Code 1:</strong >
-var romanToInt = function (s) {
-  const romanMap = {
+var romanToInt = function (s: string): number {
+  const romanMap: Record<string, number> = {
     //建立羅馬轉換表
     I: 1,
     V: 5,
@@ -13,9 +13,9 @@ var romanToInt = function (s) {
     M: 1000,
   };
 
-  let total = 0; //宣告待數字加總的空間
+  let total: number = 0; //宣告待數字加總的空間
 
-  for (let i = 0; i < s.length; i++) {
+  for (let i: number = 0; i < s.length; i++) {
     //input字串決定i迴圈次數
     if (romanMap[s[i]] < romanMap[s[i + 1]]) {
       //如果 i 小於 i+1
@@ -72,9 +72,8 @@ Output = 1994
 </pre> */
 
 // < strong > Code 2:</strong >
-var romanToInt = function (s) {
-  const romanMap = {
-    //建立羅馬轉換表
+var romanToInt = function (s: string): number {
+  const romanMap: Record<string, number> = {
     I: 1,
     V: 5,
     X: 10,
@@ -83,11 +82,11 @@ var romanToInt = function (s) {
     D: 500,
     M: 1000,
   };
-  let i = 0;
-  let total = 0; //宣告待數字加總的空間
+  let i: number = 0,
+    total: number = 0;
 
   while (i < s.length) {
-    if (romanMap[s[i]] < romanMap[s[i + 1]] && i != s.length - 1) {
+    if (romanMap[s[i]] < romanMap[s[i + 1]] && i !== s.length - 1) {
       total += romanMap[s[i + 1]] - romanMap[s[i]];
       i += 2;
     } else {
