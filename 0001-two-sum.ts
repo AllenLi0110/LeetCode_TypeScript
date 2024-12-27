@@ -24,19 +24,20 @@ var twoSum = function (nums: number[], target: number): number[] {
 /* <strong>Example 1</strong>
 <pre style='background-color:#ggg'>
 Input: nums = [2, 7, 11, 15], target = 9
-i = 0 1  2  3
+i = 0  1   2   3
+      2   7   11  15
+
 step.1
-hashTable = []
+hashTable = {} // 初始為空物件
 i = 0; nums[i] = 2;
-if ((hashTable[9 - 2]) === undefined) // hashTable[7]沒有東西
-hashTable[nums[i]] = i => hashTable[2] = 0 // hashTable[ , , 0]
-                                  i = 0 1  2
+if ((hashTable[9 - 2]) === undefined) // hashTable[7] 不存在
+hashTable[nums[i]] = i; // 將 2 的索引存入 hashTable，結果：hashTable = { 2: 0 }
 
 step.2
-hashTable = [, , 0]
+hashTable = { 2: 0 } 
 i = 1; nums[1] = 7;
-if ((hashTable[9 - 7]) !== undefined) // hashTable[2] = 0
-return ([hashTable[9 - 7], 1]) // [0, 1]
+if ((hashTable[9 - 7]) !== undefined) // hashTable[2] 存在，且值為 0
+return ([hashTable[9 - 7], 1]); // 返回 [0, 1]
 </pre>*/
 
 //<strong>Code 2: map + forEach</strong>
