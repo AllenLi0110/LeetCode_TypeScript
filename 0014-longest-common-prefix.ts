@@ -6,9 +6,9 @@
 // 3. 如相符放入prefix陣列，不相符即回傳當前的prefix。
 
 //<strong>Code 1:</strong>
-var longestCommonPrefix = function (strs) {
+var longestCommonPrefix = function (strs: string[]): string {
   if (!strs.length) return "";
-  let prefix = "";
+  let prefix: string = "";
   for (let i = 0; i < strs[0].length; i++) {
     for (let j = 0; j < strs.length - 1; j++) {
       if (strs[j][i] !== strs[j + 1][i]) return prefix;
@@ -40,18 +40,14 @@ return prefix = ['fl']
 </pre>  */
 
 //<strong>Code 2:</strong>
-var longestCommonPrefix = function (strs) {
+var longestCommonPrefix = function (strs: string[]): string {
   if (!strs.length) return "";
-  let prefix = "";
-  let x = Math.min(...strs.map((o) => o.length));
 
-  for (let i = 0; i < x; i++) {
-    let char = strs[0][i];
-
-    if (strs.every((str) => str[i] === char)) {
-      prefix += char;
-    } else {
-      break;
+  let prefix: string = strs[0];
+  for (const str of strs) {
+    while (!str.startsWith(prefix)) {
+      prefix = prefix.slice(0, -1);
+      if (!prefix) return "";
     }
   }
   return prefix;
