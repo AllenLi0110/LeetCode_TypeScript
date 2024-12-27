@@ -15,7 +15,7 @@ var romanToInt = function (s: string): number {
 
   let total: number = 0; //宣告待數字加總的空間
 
-  for (let i: number = 0; i < s.length; i++) {
+  for (let i = 0; i < s.length; i++) {
     //input字串決定i迴圈次數
     if (romanMap[s[i]] < romanMap[s[i + 1]]) {
       //如果 i 小於 i+1
