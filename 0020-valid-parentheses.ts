@@ -9,7 +9,7 @@
 // <strong>Code 1: BigO(n)</strong>
 var isValid = function (s: string): boolean {
   const array: string[] = [];
-  const map: { [key: string]: string } = {
+  const map: Record<string, string> = {
     ")": "(",
     "]": "[",
     "}": "{",
