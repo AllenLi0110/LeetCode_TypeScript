@@ -11,13 +11,13 @@
 //4.數值的處理
 //  詳請閱FlowChart
 
-var myAtoi = function (s) {
-  let index = 0;
+var myAtoi = function (s: string): number {
+  let index: number = 0;
   while (s[index] === " ") {
     index++;
   }
 
-  let sign = 1; //default to '+'
+  let sign: number = 1; //default to '+'
   if (s[index] === "+") {
     sign = 1;
     index++;
@@ -26,11 +26,11 @@ var myAtoi = function (s) {
     index++;
   }
 
-  const digits = {};
+  const digits: Record<string, number> = {};
   for (let i = 0; i < 10; i++) {
     digits[i + ""] = i;
   }
-  let result = 0;
+  let result: number = 0;
   for (let i = index; i < s.length; i++) {
     if (digits[s[i]] !== undefined) {
       result = result * 10 + digits[s[i]];
@@ -59,8 +59,8 @@ Output = 42
 </pre> */
 
 //<strong>Code 2</strong>
-var myAtoi = function (s) {
-  const res = parseInt(s) || 0;
+var myAtoi = function (s: string): number {
+  const res: number = parseInt(s) || 0;
 
   if (res > 2 ** 31 - 1) return 2 ** 31 - 1;
   if (res < 2 ** 31 * -1) return 2 ** 31 * -1;
