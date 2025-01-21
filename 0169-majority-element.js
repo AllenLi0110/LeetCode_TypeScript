@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-169-majority-element/
+//Blog: https://www.allenliservice.online/leetcode-js-169-majority-element/
 
 // <strong>Solution:</strong>
 // 1. 如 nums 中只有一個元素時，回傳該元素的值。

@@ -1,4 +1,4 @@
-//Blog:http://allenliservice.site/leetcode-js-1-two-sum/
+//Blog:http://allenliservice.online/leetcode-js-1-two-sum/
 
 //<strong>Solution:</strong>
 //1. 想像數組的陣列為一區塊

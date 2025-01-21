@@ -1,4 +1,4 @@
-//Blog: https://allenliservice.site/leetcode-javascript-30-days-challenge-day6-2626-array-reduce-transformation/
+//Blog: https://allenliservice.online/leetcode-javascript-30-days-challenge-day6-2626-array-reduce-transformation/
 
 // <strong>solution:</strong>
 // 老樣子，題目希望我們不要使用 reduce() 的方法，同時又希望回傳的是一個新的陣列，

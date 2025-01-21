@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-53-maximum-subarray/
+//Blog:https://www.allenliservice.online/leetcode-js-53-maximum-subarray/
 
 // <strong>Solution:</strong>
 // 1. 先設定初始值為 nums[0]

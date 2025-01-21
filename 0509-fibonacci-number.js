@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-509-fibonacci-number/
+//Blog: https://www.allenliservice.online/leetcode-js-509-fibonacci-number/
 
 // <strong>Solution:</strong>
 // 1. 判斷 f(0) = 0 為 0, f(1) = 1 為 1。

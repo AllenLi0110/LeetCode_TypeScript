@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-299-bulls-and-cows/
+//Blog: https://www.allenliservice.online/leetcode-js-299-bulls-and-cows/
 
 // <strong>Solution:</strong>
 // 1. 宣告 bull 和 cow 分別為 0，sBox 和 gBox 為[]。

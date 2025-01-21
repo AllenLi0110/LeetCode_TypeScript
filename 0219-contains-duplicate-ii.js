@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-219-contains-duplicate-ii/
+//Blog: https://www.allenliservice.online/leetcode-js-219-contains-duplicate-ii/
 
 // <strong>Solution:</strong>
 // 1. 判斷是否有重複的數字，沒有直接返回 false。

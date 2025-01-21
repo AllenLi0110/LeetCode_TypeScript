@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-94-binary-tree-inorder-traversal/
+//Blog: https://www.allenliservice.online/leetcode-js-94-binary-tree-inorder-traversal/
 //Binary Tree Traversal: https://ithelp.ithome.com.tw/articles/10289291
 
 // <strong>solution:</strong>

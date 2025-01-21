@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-70-climbing-stairs/
+//Blog: https://www.allenliservice.online/leetcode-js-70-climbing-stairs/
 
 // <strong>Solution:</strong>
 // <pre style='background-color:#ggg'>

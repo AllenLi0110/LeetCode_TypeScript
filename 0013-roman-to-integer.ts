@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-13-roman-to-integer/
+//Blog:https://www.allenliservice.online/leetcode-js-13-roman-to-integer/
 
 // < strong > Code 1:</strong >
 var romanToInt = function (s: string): number {

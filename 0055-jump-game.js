@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-55-jump-game/
+//Blog:https://www.allenliservice.online/leetcode-js-55-jump-game/
 
 // <strong>solution:</strong>;
 // 1. 初始化陣列長度 n。

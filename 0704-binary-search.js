@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-704-binary-search/
+//Blog: https://www.allenliservice.online/leetcode-js-704-binary-search/
 
 // <strong>Solution:</strong>
 // 1. 設定 left 為 0， right 為 nums 的長度 - 1。

@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-125-valid-palindrome/
+//Blog: https://www.allenliservice.online/leetcode-js-125-valid-palindrome/
 
 // <strong>Solution:</strong>
 // 1. Input s 轉換成小寫字母。

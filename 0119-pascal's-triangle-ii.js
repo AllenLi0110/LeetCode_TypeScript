@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-119-pascals-triangle-ii/
+//Blog: https://www.allenliservice.online/leetcode-js-119-pascals-triangle-ii/
 
 // <strong>Solution:</strong>
 // 1. 如果 rowIndex === 0，則回傳 [1]。

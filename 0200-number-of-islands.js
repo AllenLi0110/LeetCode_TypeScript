@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-200-number-of-islands/
+//Blog: https://www.allenliservice.online/leetcode-js-200-number-of-islands/
 
 // <strong>solution:</strong>
 // 先建立 numIslands 計算島嶼的 funciton，遍歷這個二維網陣列，

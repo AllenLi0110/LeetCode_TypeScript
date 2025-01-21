@@ -1,4 +1,4 @@
-//Blog: http://allenliservice.site/leetcode-js-283-move-zeroes/
+//Blog: http://allenliservice.online/leetcode-js-283-move-zeroes/
 
 // <strong>Solution:</strong>
 // 1. 宣告 index = 0。

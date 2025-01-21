@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-171-excel-sheet-column-number/
+//Blog: https://www.allenliservice.online/leetcode-js-171-excel-sheet-column-number/
 
 // <strong>solution:</strong>
 // 1. 宣告 sum 作為數值計算的變數，以及 EXP 作為數值的次方。

@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-205-isomorphic-strings/
+//Blog: https://www.allenliservice.online/leetcode-js-205-isomorphic-strings/
 
 // <strong>Solution:</strong>
 // 1. 先設定 objectS = {}, objectT = {}。

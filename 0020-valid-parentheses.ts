@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-20-valid-parentheses/
+//Blog:https://www.allenliservice.online/leetcode-js-20-valid-parentheses/
 
 //<strong>Solution:</strong>
 // 1. 運用「for...of」將input進行迴圈，比對錯誤即回傳false

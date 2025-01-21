@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-724-find-pivot-index/
+//Blog: https://www.allenliservice.online/leetcode-js-724-find-pivot-index/
 
 // <strong>Solution:</strong>
 // 1. 先設定 sum = 0, leftSum = 0。

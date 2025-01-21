@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-561-array-partition/
+//Blog: https://www.allenliservice.online/leetcode-js-561-array-partition/
 
 // <strong>solution:</strong>
 // 1. 宣告 sum 為 0，以便後續加總。

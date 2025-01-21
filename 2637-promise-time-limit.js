@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day12-2637-promise-time-limit/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day12-2637-promise-time-limit/
 
 // <strong>solution:</strong>
 // 以 Example 1 為例，呼叫 limited() 函式後，

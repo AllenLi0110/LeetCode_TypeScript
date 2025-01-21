@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day8-2666-allow-one-function-call/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day8-2666-allow-one-function-call/
 
 // <strong>solution:</strong>
 // 建立 condition 的變數來存放 Boolean，以表達狀態的切換，當第一次執行 fn 時，

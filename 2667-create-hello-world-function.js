@@ -1,4 +1,4 @@
-//Blog: https://allenliservice.site/leetcode-javascript-30-days-challenge-day1-2667-create-hello-world-function/
+//Blog: https://allenliservice.online/leetcode-javascript-30-days-challenge-day1-2667-create-hello-world-function/
 
 // <strong>solution:</strong>
 // 從範例1中可以看到，宣告了 f 為 createHelloWorld() 的這個 function，且範例2嘗試將符號、null、整數...等，放入 function 中。

@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day24-2631-group-by/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day24-2631-group-by/
 
 // <strong>solution:</strong>
 // 運用 JavaScript中的 Array.prototype 來建立一個 groupBy 的函式：

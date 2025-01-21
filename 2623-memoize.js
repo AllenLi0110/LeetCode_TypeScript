@@ -1,4 +1,4 @@
-//Blog: https://allenliservice.site/leetcode-javascript-30-days-challenge-day9-2623-memoize/
+//Blog: https://allenliservice.online/leetcode-javascript-30-days-challenge-day9-2623-memoize/
 
 // <strong>solution:</strong>
 // 我們在函式內部中建立一個空的物件 cache 來當作緩存的位置，

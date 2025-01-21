@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-412-fizz-buzz/
+//Blog: https://www.allenliservice.online/leetcode-js-412-fizz-buzz/
 
 // <strong>solution:</strong>
 // 1. 宣告一個 ans 陣列。

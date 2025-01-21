@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-35-search-insert-position/
+//Blog:https://www.allenliservice.online/leetcode-js-35-search-insert-position/
 
 // <strong>Solution:</strong>
 // 1. 先確認目標值是否存在陣列中，如「是」則回傳位置。

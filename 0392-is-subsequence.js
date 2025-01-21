@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-392-is-subsequence/
+//Blog: https://www.allenliservice.online/leetcode-js-392-is-subsequence/
 
 // <strong>Solution:</strong>
 // 1. 設定 i = 0, j = 0。(分別為 s 和 t 的陣列起始值)

@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-383-ransom-note/
+//Blog: https://www.allenliservice.online/leetcode-js-383-ransom-note/
 
 // <strong>solution:</strong>
 // 1. 將 magazine 中的字串轉成陣列放入 array。

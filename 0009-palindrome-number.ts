@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-9-palindrome-number/
+//Blog: https://www.allenliservice.online/leetcode-js-9-palindrome-number/
 
 // <strong>Solution:</strong>
 // 1. 回傳 x 的判斷式：

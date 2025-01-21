@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-263-ugly-number/
+//Blog: https://www.allenliservice.online/leetcode-js-263-ugly-number/
 
 // <strong>Solution:</strong>
 // 1. 運用 for of 來將陣列數值依序放入。

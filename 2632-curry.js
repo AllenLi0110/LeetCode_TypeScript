@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day10-2632-curry/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day10-2632-curry/
 
 // <strong>solution:</strong>
 // 由題意可以知道以下四種呼叫參數的方式都需要可以完成執行：

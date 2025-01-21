@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-100-same-tree/
+//Blog: https://www.allenliservice.online/leetcode-js-100-same-tree/
 
 // <strong>solution:</strong>
 // 1. 建立 recursion 的遞迴函式。

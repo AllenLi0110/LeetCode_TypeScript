@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day23-2619-array-prototype-last/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day23-2619-array-prototype-last/
 
 // <strong>solution:</strong>
 // 依據題目需求建立一個 Array 的模型叫做 last，

@@ -1,4 +1,4 @@
-//Blog: https://allenliservice.site/leetcode-javascript-30-days-challenge-day7-2629-function-composition/
+//Blog: https://allenliservice.online/leetcode-javascript-30-days-challenge-day7-2629-function-composition/
 
 // <strong>solution:</strong>
 // 這題最重要的是了解題目的說明，題目將條件依序放到陣列中，

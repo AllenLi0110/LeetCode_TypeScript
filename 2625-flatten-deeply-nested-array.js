@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day22-2625-flatten-deeply-nested-array/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day22-2625-flatten-deeply-nested-array/
 
 // <strong>solution:</strong>
 // 首先建立一個空的陣列 res，用來存放展開後的結果。

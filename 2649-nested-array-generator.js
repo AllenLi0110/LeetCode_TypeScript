@@ -1,5 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day30-2649-nested-array-generator/
-
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day30-2649-nested-array-generator/
 
 // <strong>solution:</strong>
 // 定義一個 inorderTraversal (function*)生成器函式，以 arr 陣列作為參數：
@@ -11,9 +10,9 @@
 // 3. 遞迴過程會重複執行，直到所有的元素都被遍歷完畢。最後，生成器會結束並不再產生任何值。
 
 // <strong>Code 1: InorderTraversal function* BigO(n)</strong>
-var inorderTraversal = function*(arr) {
+var inorderTraversal = function* (arr) {
   if (arr.length === 0) yield [];
-  
+
   for (let element of arr) {
     if (Array.isArray(element)) {
       //recursion

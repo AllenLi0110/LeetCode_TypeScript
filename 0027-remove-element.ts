@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-27-remove-element/
+//Blog:https://www.allenliservice.online/leetcode-js-27-remove-element/
 
 // <strong>Code 1:</strong>
 var removeElement = function (nums: number[], val: number): number {

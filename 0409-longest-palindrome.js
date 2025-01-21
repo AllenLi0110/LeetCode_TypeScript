@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-409-longest-palindrome/
+//Blog: https://www.allenliservice.online/leetcode-js-409-longest-palindrome/
 
 // <strong>Solution:</strong>
 // 1. 設定 hashTable 為 Object literals { }。

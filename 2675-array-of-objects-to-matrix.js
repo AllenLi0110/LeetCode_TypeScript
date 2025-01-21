@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day19-2675-array-of-objects-to-matrix/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day19-2675-array-of-objects-to-matrix/
 
 // <strong>solution:</strong>
 // 建立一個 jsonToMatrix 函式，負責將一個包含 JSON 對象的陣列轉換成矩陣的形式。
@@ -16,56 +16,56 @@
 // </pre>
 
 // <strong>Code 1: Matrix BigO(n)</strong>
-var jsonToMatrix = function(arr) {
-    const keySet = new Set()
+var jsonToMatrix = function (arr) {
+  const keySet = new Set();
 
-    for (const obj of arr) {
-        getKeys(obj, "")
+  for (const obj of arr) {
+    getKeys(obj, "");
+  }
+
+  const keys = Array.from(keySet).sort();
+  const res = [keys];
+
+  for (const obj of arr) {
+    const keyToVal = {};
+    getValues(obj, "", keyToVal);
+    let row = [];
+    for (const key of keys) {
+      if (key in keyToVal) {
+        row.push(keyToVal[key]);
+      } else {
+        row.push("");
+      }
     }
+    res.push(row);
+  }
+  return res;
 
-    const keys = Array.from(keySet).sort()
-    const res = [keys]
-
-    for (const obj of arr) {
-        const keyToVal = {}
-        getValues(obj, "", keyToVal)
-        let row = []
-        for (const key of keys) {
-            if (key in keyToVal) {
-                row.push(keyToVal[key])
-            } else {
-                row.push("")
-            }
-        }
-        res.push(row)
+  function getKeys(obj, path) {
+    for (const key in obj) {
+      const newPath = path ? `${path}.${key}` : key;
+      if (isObject(obj[key])) {
+        getKeys(obj[key], newPath);
+      } else {
+        keySet.add(newPath);
+      }
     }
-    return res;
+  }
 
-    function getKeys(obj, path) {
-        for (const key in obj) {
-            const newPath = path ? `${path}.${key}` : key
-            if (isObject(obj[key])) {
-                getKeys(obj[key], newPath)
-            } else {
-                keySet.add(newPath)
-            }
-        }
+  function getValues(obj, path, keyToVal) {
+    for (const key in obj) {
+      const newPath = path ? `${path}.${key}` : key;
+      if (isObject(obj[key])) {
+        getValues(obj[key], newPath, keyToVal);
+      } else {
+        keyToVal[newPath] = obj[key];
+      }
     }
+  }
 
-    function getValues(obj, path, keyToVal) {
-        for (const key in obj) {
-            const newPath = path ? `${path}.${key}` : key
-            if (isObject(obj[key])) {
-                getValues(obj[key], newPath, keyToVal)
-            } else {
-                keyToVal[newPath] = obj[key]
-            }
-        }
-    }
-
-    function isObject(obj) {
-        return obj !== null && typeof obj === "object"
-    }
+  function isObject(obj) {
+    return obj !== null && typeof obj === "object";
+  }
 };
 
 /* <strong>FlowChart:</strong>
@@ -150,4 +150,3 @@ console.log(jsonToMatrix([
 //   []
 // ]
 </pre> */
-

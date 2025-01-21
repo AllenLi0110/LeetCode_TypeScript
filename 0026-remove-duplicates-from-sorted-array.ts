@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-26-remove-duplicates-from-sorted-array/
+//Blog:https://www.allenliservice.online/leetcode-js-26-remove-duplicates-from-sorted-array/
 
 //<strong>Solution:</strong>
 //1. 如果nums為無效或空值，則為傳0。

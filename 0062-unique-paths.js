@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-62-unique-paths/
+//Blog: https://www.allenliservice.online/leetcode-js-62-unique-paths/
 
 // <strong>Solution:</strong>
 // 1. 宣告存放數值的陣列。(ex. [[0, 0, 0],[0, 0, 0]]

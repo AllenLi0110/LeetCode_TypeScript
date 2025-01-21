@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day15-2676-throttle/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day15-2676-throttle/
 
 // <strong>solution:</strong>
 // 節流函數 throttle 的宣告中，timeout 被初始化為 null，nextTimeToCallFn 被初始化為 0。

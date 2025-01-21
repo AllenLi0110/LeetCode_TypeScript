@@ -1,4 +1,4 @@
-//Blog:https://allenliservice.site/leetcode-js-58-length-of-last-word-2/
+//Blog:https://allenliservice.online/leetcode-js-58-length-of-last-word-2/
 
 // <strong>Solution:</strong>
 // 1. 運用.trim()移除字串中，字首前、字尾後的空白。

@@ -1,4 +1,4 @@
-//Blog: https://allenliservice.site/leetcode-javascript-30-days-challenge-day2-2620-counter/
+//Blog: https://allenliservice.online/leetcode-javascript-30-days-challenge-day2-2620-counter/
 
 // <strong>solution:</strong>
 // 首先要注意題目給予的函式運用了閉包(closure)的概念，在計數的部分可以運用後置遞增運算符 n++ 來做運算，

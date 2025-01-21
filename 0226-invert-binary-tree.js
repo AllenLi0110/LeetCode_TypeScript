@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-226-invert-binary-tree/
+//Blog: https://www.allenliservice.online/leetcode-js-226-invert-binary-tree/
 
 // <strong>solution:</strong>
 // 1. 程式碼開頭有一個對二元樹節點的定義，即 TreeNode 函式>

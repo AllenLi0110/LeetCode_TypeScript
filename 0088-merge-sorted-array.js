@@ -1,5 +1,5 @@
-//Blog: http://allenliservice.site/leetcode-js-88-merge-sorted-array/
-//Bubble: https://www.allenliservice.site/關於bubble-sort排序方法與示意圖/
+//Blog: http://allenliservice.online/leetcode-js-88-merge-sorted-array/
+//Bubble: https://www.allenliservice.online/關於bubble-sort排序方法與示意圖/
 
 //<strong>Solution:</strong>
 //1. 宣告 index = 0

@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-459-repeated-substring-pattern/
+//Blog:https://www.allenliservice.online/leetcode-js-459-repeated-substring-pattern/
 
 // <strong>solution:</strong>
 // 首先思考 s 字串是否可以組成多重個 sub s字串所需要的條件，

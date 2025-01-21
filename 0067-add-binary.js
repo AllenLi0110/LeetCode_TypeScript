@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-67-add-binary/
+//Blog: https://www.allenliservice.online/leetcode-js-67-add-binary/
 
 // <strong>Solution:</strong>
 // 1. 先了解二進位的規則。

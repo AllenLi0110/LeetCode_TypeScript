@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-217-contains-duplicate/
+//Blog: https://www.allenliservice.online/leetcode-js-217-contains-duplicate/
 
 // <strong>Solution:</strong>
 // 1. 建立 hashTable 物件。

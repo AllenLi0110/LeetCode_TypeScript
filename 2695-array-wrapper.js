@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day28-2695-array-wrapper/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day28-2695-array-wrapper/
 
 // <strong>solution:</strong>
 // 定義一個 ArrayWrapper 的 constructor function，並接受放入 nums 參數。

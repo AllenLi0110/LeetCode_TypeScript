@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-28-implement-strstr/
+//Blog:https://www.allenliservice.online/leetcode-js-28-implement-strstr/
 
 //<strong>Solution:</strong>
 // 1. if「needle」是空值，回傳0

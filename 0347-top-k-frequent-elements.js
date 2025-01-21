@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-347-top-k-frequent-elements/
+//Blog: https://www.allenliservice.online/leetcode-js-347-top-k-frequent-elements/
 
 // <strong>Solution:</strong>
 // 1. 宣告 object 為物件。

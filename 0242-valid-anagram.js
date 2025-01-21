@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-242-valid-anagram/
+//Blog: https://www.allenliservice.online/leetcode-js-242-valid-anagram/
 
 // <strong>Solution:</strong>
 // 1. 先判斷 s 和 t 的長度是否不相同，並回傳 false。

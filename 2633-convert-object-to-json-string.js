@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day18-2633-convert-object-to-json-string/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day18-2633-convert-object-to-json-string/
 
 // <strong>solution:</strong>
 // 自定義一個函式 jsonStringify()，用於將 JavaScript 的物件轉換成 JSON 字串格式。

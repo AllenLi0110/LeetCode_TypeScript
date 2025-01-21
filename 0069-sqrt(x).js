@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-69-sqrtx/
+//Blog: https://www.allenliservice.online/leetcode-js-69-sqrtx/
 
 // <strong>Solution:</strong>
 // 1. 宣告 r 等於 x。

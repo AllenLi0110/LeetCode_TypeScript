@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-342-power-of-four/
+//Blog: https://www.allenliservice.online/leetcode-js-342-power-of-four/
 
 // <strong>Solution:</strong>
 // 1. 先判斷 n 為負數則為 false。

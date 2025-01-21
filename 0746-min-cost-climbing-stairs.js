@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-746-min-cost-climbing-stairs/
+//Blog: https://www.allenliservice.online/leetcode-js-746-min-cost-climbing-stairs/
 
 // <strong>Solution:</strong>
 // 1. 宣告 step1 和 step2 分別為 10 和 15。

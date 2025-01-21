@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day20-2700-differences-between-two-objects/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day20-2700-differences-between-two-objects/
 
 // <strong>solution:</strong>
 // 宣告一個函式來處理兩個物件的差異：

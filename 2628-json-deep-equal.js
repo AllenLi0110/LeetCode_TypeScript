@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day17-2628-json-deep-equal/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day17-2628-json-deep-equal/
 
 // <strong>solution:</strong>
 // 宣告名為 areDeeplyEqual 的函式，用於深度比較兩個物件 o1 和 o2 是否相等：

@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-121-best-time-to-buy-and-sell-stock/
+//Blog: https://www.allenliservice.online/leetcode-js-121-best-time-to-buy-and-sell-stock/
 
 // <strong>Solution:</strong>
 // 1. 設定 min 為最大值，且起始的 profit 為 0。

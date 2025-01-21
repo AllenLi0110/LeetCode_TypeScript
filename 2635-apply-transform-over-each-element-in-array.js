@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day4-2635-apply-transform-over-each-element-in-array/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day4-2635-apply-transform-over-each-element-in-array/
 
 // <strong>solution:</strong>
 // 因題目希望我們不要使用 map() 的方法，同時又希望回傳的是一個新的陣列，

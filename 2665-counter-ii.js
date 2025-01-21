@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day3-2665-counter-ii/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day3-2665-counter-ii/
 
 // <strong>solution:</strong>
 // 宣告一個變數 value，並用來儲存初始的值，接著：

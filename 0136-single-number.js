@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-136-single-number/
+//Blog: https://www.allenliservice.online/leetcode-js-136-single-number/
 
 // <strong>Solution:</strong>
 // 1. 如果 nums 中只有一個數值，則返回該數值。

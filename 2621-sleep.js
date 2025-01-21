@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day11-2621-sleep/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day11-2621-sleep/
 
 // <strong>solution:</strong>
 // 題目需要我們寫一個非同步的函式，且提供需延遲設定的秒數當作 input 傳入這個函式中，

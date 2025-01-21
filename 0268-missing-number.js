@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-268-missing-number/
+//Blog: https://www.allenliservice.online/leetcode-js-268-missing-number/
 
 // <strong>Solution:</strong>
 // 1. 宣告 result 為 0。

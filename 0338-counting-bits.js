@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-338-counting-bits/
+//Blog: https://www.allenliservice.online/leetcode-js-338-counting-bits/
 
 // <strong>Solution:</strong>
 // 1. 建立 ans 陣列為[0]。

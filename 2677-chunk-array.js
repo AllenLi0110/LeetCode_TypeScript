@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day21-2677-chunk-array/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day21-2677-chunk-array/
 
 // <strong>solution:</strong>
 // 建立一個名叫 chunk 的函式，分別放入 arr, size 進去，先假設如果 arr 的長度不足以滿足 size，

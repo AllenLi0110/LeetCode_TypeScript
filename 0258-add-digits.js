@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-258-add-digits/
+//Blog: https://www.allenliservice.online/leetcode-js-258-add-digits/
 
 // <strong>Solution:</strong>
 // 1. 如果 num 介於 0 ~9 之間，回傳 num。

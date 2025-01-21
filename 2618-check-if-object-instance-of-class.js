@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day25-2618-check-if-object-instance-of-class/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day25-2618-check-if-object-instance-of-class/
 
 // <strong>solution:</strong>
 // 建立 checkIfInstanceOf 函式來確認題目給的 obj 是否存在 classFunction 中。

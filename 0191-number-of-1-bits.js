@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-js-191-number-of-1-bits/
+//Blog: https://www.allenliservice.online/leetcode-js-191-number-of-1-bits/
 
 // <strong>Solution:</strong>
 // 1. 宣告 count 次數為 0。

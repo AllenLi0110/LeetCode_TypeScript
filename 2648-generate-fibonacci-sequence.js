@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day29-2648-generate-fibonacci-sequence/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day29-2648-generate-fibonacci-sequence/
 
 // <strong>solution:</strong>
 // 定義 generator (function*)生成器函式為一個斐波那契數列 fibGenerator：
@@ -12,15 +12,15 @@
 // 也就是斐波那契數列中的下一個項目，且只在需要時才生成一個項目，而不是一次性計算出整個數列。
 
 // <strong>Code 1: BigO(n)</strong>
-var fibGenerator = function*() {
-    let a = 0,
-        b = 1
-    while (true) {
-        yield a;
-        let temp = a
-        a = a + b
-        b = temp
-    }
+var fibGenerator = function* () {
+  let a = 0,
+    b = 1;
+  while (true) {
+    yield a;
+    let temp = a;
+    a = a + b;
+    b = temp;
+  }
 };
 
 /* <strong>FlowChart:</strong>
@@ -40,13 +40,13 @@ console.log(gen.next()); //{ value: 0, done: false }
 </pre> */
 
 // <strong>Code 2: BigO(n)</strong>
-var fibGenerator = function*() {
-    let a = 0,
-        b = 1
-    while (true) {
-        yield a;
-        [a, b] = [b, a + b]
-    }
+var fibGenerator = function* () {
+  let a = 0,
+    b = 1;
+  while (true) {
+    yield a;
+    [a, b] = [b, a + b];
+  }
 };
 
 // <strong>Code 3: Closure BigO(n)</strong>

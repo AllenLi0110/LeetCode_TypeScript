@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day26-2693-call-function-with-custom-context/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day26-2693-call-function-with-custom-context/
 
 // <strong>solution:</strong>
 // 建立 function.prototype 來定義一個叫做 callPolyfill 的函式，

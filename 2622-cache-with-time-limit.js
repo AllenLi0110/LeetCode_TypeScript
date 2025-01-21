@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day14-2622-cache-with-time-limit/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day14-2622-cache-with-time-limit/
 
 // <strong>solution:</strong>
 // 我們先定義了一個 TimeLimitedCache 類別，它是一個有時間限制的結構。

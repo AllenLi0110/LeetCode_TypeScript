@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-14-longest-common-prefix/
+//Blog:https://www.allenliservice.online/leetcode-js-14-longest-common-prefix/
 
 //<strong>Solution:</strong>
 // 1. 先排除input不是字串的狀況(小優化)。(ex.傳入空值)

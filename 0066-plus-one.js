@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-66-plus-one/
+//Blog:https://www.allenliservice.online/leetcode-js-66-plus-one/
 
 // <strong>Solution:</strong>
 // 1. 先陣列中的數字取出，由字串轉成數值。

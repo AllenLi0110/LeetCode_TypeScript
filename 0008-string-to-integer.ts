@@ -1,4 +1,4 @@
-//Blog:https://www.allenliservice.site/leetcode-js-8-string-to-integer-atoi/
+//Blog:https://www.allenliservice.online/leetcode-js-8-string-to-integer-atoi/
 
 //<strong>solution:</strong>
 //1.確認數值的正負狀態

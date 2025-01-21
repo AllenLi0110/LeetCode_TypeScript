@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day13-2636-promise-pool/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day13-2636-promise-pool/
 
 // <strong>solution:</strong>
 // 宣告 queue 為一個新的 set() 物件用於儲存正在執行的任務，同時 resolved 陣列用於儲存已完成的任務的結果。

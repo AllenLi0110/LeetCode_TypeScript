@@ -1,4 +1,4 @@
-//Blog: https://www.allenliservice.site/leetcode-javascript-30-days-challenge-day15-2627-debounce/
+//Blog: https://www.allenliservice.online/leetcode-javascript-30-days-challenge-day15-2627-debounce/
 
 // <strong>solution:</strong>
 // 宣告 debounce 函式用來限制某個函式在指定時間間隔內只執行一次。
