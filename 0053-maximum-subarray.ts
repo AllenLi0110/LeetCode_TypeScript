@@ -8,8 +8,8 @@
 // 5. 回傳結果
 
 // <strong>Code 1:</strong>
-var maxSubArray = function (nums) {
-  let response = nums[0];
+var maxSubArray = function (nums: number[]): number {
+  let response: number = nums[0];
   for (let i = 1; i < nums.length; ++i) {
     if (nums[i - 1] > 0) {
       nums[i] += nums[i - 1];
@@ -84,13 +84,13 @@ return response = 6
 </pre> */
 
 // <strong>Code 2:</strong>  ex.Time Limit Exceeded
-var maxSubArray = function (nums) {
-  let max = Math.min.apply(null, nums);
+var maxSubArray = function (nums: number[]): number {
+  let max: number = Math.min(...nums);
 
-  for (i = 0; i < nums.length; i++) {
+  for (let i = 0; i < nums.length; i++) {
     let sum = 0;
 
-    for (j = i; j < nums.length; j++) {
+    for (let j = i; j < nums.length; j++) {
       sum += nums[j];
 
       if (sum > max) {
