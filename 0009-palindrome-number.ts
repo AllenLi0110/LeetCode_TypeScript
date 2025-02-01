@@ -24,13 +24,13 @@ return 121 === 121 //true */
 var isPalindrome = function (x: number): boolean {
   if (x < 0) return false;
   if (x === 0) return true;
-  let number: number = x,
-    reverse: number = 0;
-  while (number > 0) {
-    reverse = reverse * 10 + (number % 10);
-    number = Math.floor(number / 10);
+  let num: number = x,
+    reverseNum: number = 0;
+  while (num > 0) {
+    reverseNum = reverseNum * 10 + (num % 10);
+    num = Math.floor(num / 10);
   }
-  return reverse === x;
+  return reverseNum === x;
 };
 
 // < strong > Code 3:</strong >
