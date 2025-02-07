@@ -16,13 +16,13 @@
 // </pre>
 
 //<strong>Code 1: BigO(n)</strong>
-var climbStairs = function (n) {
+var climbStairs = function (n:number):number {
   if (n <= 1) return 1;
   if (n === 2) return 2;
 
-  let [one, two] = [1, 1];
+  let [one, two]: [number, number] = [1, 1];
   for (let i = 2; i <= n; i++) {
-    let temp = one;
+    let temp: number = one;
     one = one + two;
     two = temp;
   }
@@ -41,11 +41,11 @@ return one = 2
 </pre> */
 
 //<strong>Code 2: BigO(n)</strong>
-var climbStairs = function (n) {
+var climbStairs = function (n: number): number {
   if (n <= 1) return 1;
   if (n === 2) return 2;
 
-  let newArray = [0, 1, 2];
+  let newArray: number[] = [0, 1, 2]; 
   for (let i = 3; i <= n; i++) {
     newArray[i] = newArray[i - 2] + newArray[i - 1];
   }
