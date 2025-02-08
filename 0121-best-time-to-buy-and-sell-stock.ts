@@ -9,15 +9,19 @@
 // 6. 最終回傳最大的 profit。
 
 // <strong>Code 1:</strong>
-var maxProfit = function (prices) {
-  let min = Number.MAX_SAFE_INTEGER;
+var maxProfit = function (prices: number[]): number {
+  let min: number = Number.MAX_SAFE_INTEGER;
   let profit = 0;
 
   for (let i = 0; i < prices.length; i++) {
-    if (prices[i] < min) min = prices[i];
+    if (prices[i] < min) {
+      min = prices[i];
+    }
 
     let currentProfit = prices[i] - min;
-    if (currentProfit > profit) profit = currentProfit;
+    if (currentProfit > profit) {
+      profit = currentProfit;
+    }
   }
   return profit;
 };
