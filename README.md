@@ -7,33 +7,36 @@
 ## File Structure
 
 The main files and their functions are as follows:
+
 ```
-├── 0001-two-sum.js
-├── 0008-string-to-integer.js
-├── 0009-palindrome-number.js
-├── 0011-container-with-most-water.js
-├── 0013-roman-to-integer.js
-├── 0014-longest-common-prefix.js
-├── 0020-valid-parentheses.js
-├── 0026-remove-duplicates-from-sorted-array.js
-├── 0027-remove-element.js
+├── 0001-two-sum.ts
+├── 0003-longest-substring-without-repeating-characters.ts
+├── 0008-string-to-integer.ts
+├── 0009-palindrome-number.ts
+├── 0011-container-with-most-water.ts
+├── 0013-roman-to-integer.ts
+├── 0014-longest-common-prefix.ts
+├── 0020-valid-parentheses.ts
+├── 0026-remove-duplicates-from-sorted-array.ts
+├── 0027-remove-element.ts
 ├── 0028-implement-strStr().js
 ├── 0035-search-insert-position.js
-├── 0053-maximum-subarray.js
+├── 0053-maximum-subarray.ts
 ├── 0055-jump-game.js
 ├── 0058-length-of-last-word.js
 ├── 0062-unique-paths.js
 ├── 0066-plus-one.js
 ├── 0067-add-binary.js
 ├── 0069-sqrt(x).js
-├── 0070-climbing-stairs.js
+├── 0070-climbing-stairs.ts
 ├── 0088-merge-sorted-array.js
 ├── 0094-binary-tree-inorder-traversal.js
 ├── 0100-same-tree.js
 ├── 0102-binary-tree-level-order-traversal.js
 ├── 0119-pascal's-triangle-ii.js
-├── 0121-best-time-to-buy-and-sell-stock.js
+├── 0121-best-time-to-buy-and-sell-stock.ts
 ├── 0125-valid-palindrome.js
+├── 0128-longest-consecutive-sequence.ts
 ├── 0136-single-number.js
 ├── 0144-binary-tree-preorder-traversal.js
 ├── 0169-majority-element.js
