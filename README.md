@@ -14,6 +14,7 @@ The main files and their functions are as follows:
 ├── 0008-string-to-integer.ts
 ├── 0009-palindrome-number.ts
 ├── 0011-container-with-most-water.ts
+├── 0012-integer-to-roman.ts
 ├── 0013-roman-to-integer.ts
 ├── 0014-longest-common-prefix.ts
 ├── 0020-valid-parentheses.ts
