@@ -1,8 +1,8 @@
-# LeetCode_JavaScript
+# LeetCode_TypeScript
 
 ## Introduction
 
-`LeetCode_Typescript` is a project that refactors LeetCode solutions using TypeScript. The goal of this project is to provide clear and understandable solutions while converting JavaScript code to TypeScript to enhance code maintainability and readability.
+`LeetCode_TypeScript` is a project that refactors LeetCode solutions using TypeScript. The goal of this project is to provide clear and understandable solutions while converting JavaScript code to TypeScript to enhance code maintainability and readability.
 
 ## File Structure
 
