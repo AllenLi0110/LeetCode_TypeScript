@@ -1,3 +1,4 @@
+// <strong>Code 1: BigO(n^2) Sliding Window</strong>
 function longestPalindrome(s: string): string {
   if (s.length < 1) return "";
   let start: number = 0;
