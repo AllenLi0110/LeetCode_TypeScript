@@ -1,5 +1,9 @@
+//Blog:http://allenliservice.online/leetcode-js-5-longest-palindromic-substring/
+
+// <strong>solution:</strong>
+
 // <strong>Code 1: BigO(n^2) Sliding Window</strong>
-function longestPalindrome(s: string): string {
+https: function longestPalindrome(s: string): string {
   if (s.length < 1) return "";
   let start: number = 0;
   let maxLength: number = 1;
