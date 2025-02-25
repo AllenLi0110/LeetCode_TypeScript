@@ -1,4 +1,4 @@
-# LeetCode_TypeScript
+# LeetCode_TypeScript(JavaScript)
 
 ## Introduction
 
