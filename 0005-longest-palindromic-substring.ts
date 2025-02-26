@@ -14,7 +14,7 @@ https: function longestPalindrome(s: string): string {
   let start: number = 0;
   let maxLength: number = 1;
 
-  const expandFromCenter = (left: number, right: number): number => {
+  const expandAroundCenter = (left: number, right: number): number => {
     while (left >= 0 && right < s.length && s[left] === s[right]) {
       left--;
       right++;
@@ -23,8 +23,8 @@ https: function longestPalindrome(s: string): string {
   };
 
   for (let i = 0; i < s.length; i++) {
-    let len1: number = expandFromCenter(i, i);
-    let len2: number = expandFromCenter(i, i + 1);
+    let len1: number = expandAroundCenter(i, i);
+    let len2: number = expandAroundCenter(i, i + 1);
     let currentMaxLength = Math.max(len1, len2);
 
     if (currentMaxLength > maxLength) {
