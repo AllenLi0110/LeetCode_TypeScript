@@ -9,7 +9,7 @@
 // 6. 最終返回最長的字串長度。
 
 // <strong>Code 1: BigO(n^2) Expand Around Center </strong>
-https: function longestPalindrome(s: string): string {
+function longestPalindrome(s: string): string {
   if (s.length < 1) return "";
   let start: number = 0;
   let maxLength: number = 1;
