@@ -8,7 +8,7 @@
 // 5. 遍歷過程中不斷更新最長的字串長度。
 // 6. 最終返回最長的字串長度。
 
-// <strong>Code 1: BigO(n^2) Sliding Window</strong>
+// <strong>Code 1: BigO(n^2) Expand Around Center </strong>
 https: function longestPalindrome(s: string): string {
   if (s.length < 1) return "";
   let start: number = 0;
