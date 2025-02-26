@@ -1,4 +1,4 @@
-//Blog:http://allenliservice.online/leetcode-js-5-longest-palindromic-substring/
+//Blog:http://allenliservice.online/leetcode-ts-647-palindromic-substrings/
 
 // <strong>solution:</strong>
 // 1. 定義 count 變數。
