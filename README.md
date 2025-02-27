@@ -11,6 +11,7 @@ The main files and their functions are as follows:
 ```
 ├── 0001-two-sum.ts
 ├── 0003-longest-substring-without-repeating-characters.ts
+├── 0005-longest-palindromic-substring.ts
 ├── 0008-string-to-integer.ts
 ├── 0009-palindrome-number.ts
 ├── 0011-container-with-most-water.ts
@@ -66,6 +67,7 @@ The main files and their functions are as follows:
 ├── 0459-repeated-substring-pattern.js
 ├── 0509-fibonacci-number.js
 ├── 0561-array-partition.js
+├── 0647-palindromic-substrings.ts
 ├── 0704-binary-search.js
 ├── 0724-find-pivot-index.js
 ├── 0746-min-cost-climbing-stairs.js
