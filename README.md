@@ -102,4 +102,5 @@ The main files and their functions are as follows:
 ├── 2693-call-function-with-custom-context.js
 ├── 2694-event-emitter.js
 └── 2695-array-wrapper.js
+└── 3688-bitwise-or-of-even-numbers-in-an-array.ts
 ```
