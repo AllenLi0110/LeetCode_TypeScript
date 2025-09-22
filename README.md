@@ -103,4 +103,5 @@ The main files and their functions are as follows:
 ├── 2694-event-emitter.js
 └── 2695-array-wrapper.js
 └── 3688-bitwise-or-of-even-numbers-in-an-array.ts
+└── 3689-maximum-total-subarray-value-i.ts
 ```
