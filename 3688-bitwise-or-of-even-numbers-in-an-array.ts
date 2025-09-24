@@ -15,6 +15,11 @@ function evenNumberBitwiseORs(nums: number[]): number {
     return result;
 };
 
+// <strong>Code 2: BigO(n)</strong>
+function evenNumberBitwiseORs(nums: number[]): number {
+    return nums.reduce((a, c) => c & 1 ? a : a | c, 0);
+};
+
 /* <strong>FlowChart:</strong>
 <strong>Example 1</strong>
 <pre style='background-color:#ggg'>
