@@ -14,31 +14,32 @@
 // 接著將 sub 插入到 remaining 的每個可能位置生成新的排列 next，
 // 若該陣列尚未訪問過，就加入 queue 並記錄在 visited，直到 nums1 轉換成目標 nums2。
 
+// 如果都無法配對，則回傳 -1。
+
 
 // <strong>Code 1: BigO(n!*n^3)</strong>
 function minSplitMerge(nums1: number[], nums2: number[]): number {
-    const n = nums1.length;
-    const target = nums2.join(",");
+    const n: number = nums1.length;
+    const target: string = nums2.join(',');
     const queue: [number[], number][] = [[nums1, 0]];
-    const visited = new Set<string>();
-    visited.add(nums1.join(","));
+    const visited: Set<string> = new Set();
 
     while (queue.length > 0) {
         const [arr, steps] = queue.shift()!;
-        const arrKey = arr.join(",");
+        const arrKey: string = arr.join(',');
 
         if (arrKey === target) return steps;
 
         for (let i = 0; i < n; i++) {
             for (let j = i; j < n; j++) {
-                const left = arr.slice(0, i);
-                const sub = arr.slice(i, j + 1);
-                const right = arr.slice(j + 1);
-                const remaining = left.concat(right);
+                const left: number[] = arr.slice(0, i);
+                const sub: number[] = arr.slice(i, j + 1);
+                const right: number[] = arr.slice(j + 1);
+                const remaining: number[] = left.concat(right);
 
                 for (let k = 0; k <= remaining.length; k++) {
-                    const next = [...remaining.slice(0, k), ...sub, ...remaining.slice(k)];
-                    const key = next.join(",");
+                    const next: number[] = [...remaining.slice(0, k), ...sub, ...remaining.slice(k)];
+                    const key: string = next.join(',');
                     if (!visited.has(key)) {
                         visited.add(key);
                         queue.push([next, steps + 1]);
@@ -47,9 +48,8 @@ function minSplitMerge(nums1: number[], nums2: number[]): number {
             }
         }
     }
-
     return -1;
-}
+};
 
 /* <strong>FlowChart:</strong>
 <strong>Example 1</strong>
