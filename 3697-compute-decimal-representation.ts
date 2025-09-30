@@ -14,7 +14,7 @@ function decimalRepresentation(n: number): number[] {
     let placeValue = 1;
 
     while (num > 0) {
-        const digit = num % 10;
+        const digit: number = num % 10;
         if (digit !== 0) {
             components.push(digit * placeValue);
         }
