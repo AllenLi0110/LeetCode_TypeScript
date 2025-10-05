@@ -9,7 +9,7 @@
 // 接下來我們確保 n 是否會被這些數值整除，
 // 以此判斷他是否為質數，且該數大於 0，則為答案 true。
 
-// <strong>Code 1: BigO(√n)</strong>
+// <strong>Code 1: BigO(√√n)</strong>
 function isThree(n: number): boolean {
     let sqrt: number = Math.floor(Math.sqrt(n));
     if (sqrt * sqrt !== n) return false;
