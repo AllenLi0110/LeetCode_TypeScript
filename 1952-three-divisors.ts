@@ -1,4 +1,4 @@
-//Blog: https://allenliservice.online/leetcode-ts-3697-compute-decimal-representation/
+//Blog: https://allenliservice.online/leetcode-ts-1952-three-divisors/
 
 
 // <strong>Solution: </strong>
