@@ -103,9 +103,10 @@ The main files and their functions are as follows:
 ├── 2677-chunk-array.js
 ├── 2693-call-function-with-custom-context.js
 ├── 2694-event-emitter.js
-└── 2695-array-wrapper.js
-└── 3688-bitwise-or-of-even-numbers-in-an-array.ts
-└── 3689-maximum-total-subarray-value-i.ts
-└── 3690-split-and-merge-array-transformation.ts
-└── 3697-compute-decimal-representation.ts
+├── 2695-array-wrapper.js
+├── 3688-bitwise-or-of-even-numbers-in-an-array.ts
+├── 3689-maximum-total-subarray-value-i.ts
+├── 3690-split-and-merge-array-transformation.ts
+├── 3697-compute-decimal-representation.ts
+└── 3699-number-of-zigzag-array-i.ts
 ```
