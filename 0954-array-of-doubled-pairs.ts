@@ -9,7 +9,7 @@
 // 3. 配對成功的兩個元素皆需要扣除，遍歷配對的元素就不需要配對。
 // 4. 如果無法配對或要配對數值的兩倍已無次數，則回傳 false，否則回傳 true。
 
-// <strong>Code 2: BigO(n log n)</strong>
+// <strong>Code 1: BigO(n log n)</strong>
 function canReorderDoubled(arr: number[]): boolean {
     let hashTable: Record<string, number> = {}
     for (let num of arr) {
