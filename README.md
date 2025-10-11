@@ -76,6 +76,7 @@ The main files and their functions are as follows:
 ├── 1929-concatenation-of-array.js
 ├── 1952-three-divisor.ts
 ├── 2056-count-pairs-of-similar-strings.ts
+├── 2507-smallest-value-after-replacing-with-sum-of-prime-factors.ts
 ├── 2618-check-if-object-instance-of-class.js
 ├── 2619-array-prototype-last.js
 ├── 2620-counter.js
