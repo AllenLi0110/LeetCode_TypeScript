@@ -73,6 +73,7 @@ The main files and their functions are as follows:
 ├── 0746-min-cost-climbing-stairs.js
 ├── 0766-toeplitz-matrix.ts
 ├── 0954-array-of-doubled-pairs.ts
+├── 1004-max-consecutive-ones-iii.ts
 ├── 1480-running-sum-of-1d-array.js
 ├── 1929-concatenation-of-array.js
 ├── 1952-three-divisor.ts
