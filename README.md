@@ -79,7 +79,8 @@ The main files and their functions are as follows:
 ├── 1952-three-divisor.ts
 ├── 2056-count-pairs-of-similar-strings.ts
 ├── 2507-smallest-value-after-replacing-with-sum-of-prime-factors.ts
-├── 2058-add-edges-to-make-degrees-of-all-nodes-even.ts
+├── 2508-add-edges-to-make-degrees-of-all-nodes-even.ts
+├── 2509-cycle-length-queries-in-a-tree.ts
 ├── 2618-check-if-object-instance-of-class.js
 ├── 2619-array-prototype-last.js
 ├── 2620-counter.js
