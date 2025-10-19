@@ -81,6 +81,7 @@ The main files and their functions are as follows:
 ├── 2507-smallest-value-after-replacing-with-sum-of-prime-factors.ts
 ├── 2508-add-edges-to-make-degrees-of-all-nodes-even.ts
 ├── 2509-cycle-length-queries-in-a-tree.ts
+├── 2553-separate-the-digits-in-an-array.ts
 ├── 2618-check-if-object-instance-of-class.js
 ├── 2619-array-prototype-last.js
 ├── 2620-counter.js
