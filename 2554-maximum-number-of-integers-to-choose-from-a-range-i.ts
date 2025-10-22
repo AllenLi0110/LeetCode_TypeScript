@@ -5,6 +5,8 @@
 // 我們可以在遍歷 1 ~ n 數字的過程進行累加 sum 與次數 count，
 // 然後過濾掉存在 banned [] 裡的數字，
 // 如果 sum 大於題目給的 maxSum，則回傳累加的次數。
+// 這裡用的是比較 Greedy 的想法，我從最小的開始累加與取數值，
+// 如果超過就回傳當前的累加次數，因為題目要的是數量，不是組合。
 
 // <strong>Code 1: BigO(n)</strong>
 function maxCount(banned: number[], n: number, maxSum: number): number {
