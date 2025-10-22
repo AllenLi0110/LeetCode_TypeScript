@@ -4,6 +4,8 @@
 // 這題給了我們一個數值，並且把每個數字都獨立並放入陣列中。
 // 所以我們可以遍歷這個 nums 陣列，
 // 並且把得到的數值轉成字串後放入到 arr 陣列中即可。
+// 這裡用的是比較 Greedy 的想法，我從最小的開始累加與取數值，
+// 如果超過就回傳當前的累加次數，因為題目要的是數量，不是組合。
 
 // <strong>Code 1: BigO(n x k)</strong>
 function separateDigits(nums: number[]): number[] {
