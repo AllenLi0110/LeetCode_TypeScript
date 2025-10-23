@@ -83,7 +83,7 @@ The main files and their functions are as follows:
 ├── 2509-cycle-length-queries-in-a-tree.ts
 ├── 2553-separate-the-digits-in-an-array.ts
 ├── 2554-maximum-number-of-integers-to-choose-from-a-range-i.ts
-├── 2554-maximize-win-from-two-segments.ts
+├── 2555-maximize-win-from-two-segments.ts
 ├── 2618-check-if-object-instance-of-class.js
 ├── 2619-array-prototype-last.js
 ├── 2620-counter.js
