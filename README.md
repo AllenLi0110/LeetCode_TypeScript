@@ -76,6 +76,7 @@ The main files and their functions are as follows:
 ├── 1004-max-consecutive-ones-iii.ts
 ├── 1390-four-divisors.ts
 ├── 1480-running-sum-of-1d-array.js
+├── 1482-minimum-number-of-days-to-make-m-bouquets.ts
 ├── 1929-concatenation-of-array.js
 ├── 1952-three-divisor.ts
 ├── 2056-count-pairs-of-similar-strings.ts
