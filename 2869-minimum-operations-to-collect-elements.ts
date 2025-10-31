@@ -14,7 +14,7 @@
 // k = 2(1 ~ 2) pop 5, add {2, 4, 5}
 // k = 2(1 ~ 2) pop 1, add {2, 4, 5, 1}
 
-// <strong>Code 1: BigO(n)</strong>
+// <strong>Code 1: BigO(n log n)</strong>
 function minOperations(nums: number[], k: number): number {
     const set: Set<number> = new Set();
     let count: number = 0;
