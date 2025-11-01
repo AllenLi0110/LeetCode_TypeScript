@@ -115,6 +115,7 @@ The main files and their functions are as follows:
 ├── 2693-call-function-with-custom-context.js
 ├── 2694-event-emitter.js
 ├── 2695-array-wrapper.js
+├── 2869-minimum-operations-to-collect-elements.ts
 ├── 3688-bitwise-or-of-even-numbers-in-an-array.ts
 ├── 3689-maximum-total-subarray-value-i.ts
 ├── 3690-split-and-merge-array-transformation.ts
