@@ -118,6 +118,7 @@ The main files and their functions are as follows:
 ├── 2869-minimum-operations-to-collect-elements.ts
 ├── 2870-minimum-number-of-operations-to-make-array-empty.ts
 ├── 2871-split-array-into-maximum-number-of-subarrays.ts
+├── 2872-maximum-number-of-k-divisible-components.ts
 ├── 3688-bitwise-or-of-even-numbers-in-an-array.ts
 ├── 3689-maximum-total-subarray-value-i.ts
 ├── 3690-split-and-merge-array-transformation.ts
