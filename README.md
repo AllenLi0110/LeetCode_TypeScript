@@ -88,6 +88,7 @@ The main files and their functions are as follows:
 ├── 2555-maximize-win-from-two-segments.ts
 ├── 2591-distribute-money-to-maximum-children.ts
 ├── 2592-maximize-greatness-of-an-array.ts
+├── 2593-find-score-of-an-array-after-marking-all-elements.ts
 ├── 2618-check-if-object-instance-of-class.js
 ├── 2619-array-prototype-last.js
 ├── 2620-counter.js
