@@ -110,6 +110,7 @@ The main files and their functions are as follows:
 ├── 2635-apply-transform-over-each-element-in-array.js
 ├── 2636-promise-pool.js
 ├── 2637-promise-time-limit.js
+├── 2639-find-the-width-of-columns-of-a-grid.ts
 ├── 2648-generate-fibonacci-sequence.js
 ├── 2649-nested-array-generator.js
 ├── 2665-counter-ii.js
