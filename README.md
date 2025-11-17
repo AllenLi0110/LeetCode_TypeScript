@@ -113,6 +113,7 @@ The main files and their functions are as follows:
 ├── 2639-find-the-width-of-columns-of-a-grid.ts
 ├── 2640-find-the-score-of-all-prefixes-of-an-array.ts
 ├── 2641-cousins-in-binary-tree-ii.ts
+├── 2642-design-graph-with-shortest-path-calculator.ts
 ├── 2648-generate-fibonacci-sequence.js
 ├── 2649-nested-array-generator.js
 ├── 2665-counter-ii.js
