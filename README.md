@@ -73,6 +73,7 @@ The main files and their functions are as follows:
 ├── 0746-min-cost-climbing-stairs.js
 ├── 0766-toeplitz-matrix.ts
 ├── 0954-array-of-doubled-pairs.ts
+├── 0973-k-closest-points-to-origin.ts
 ├── 1002-find-common-characters.ts
 ├── 1004-max-consecutive-ones-iii.ts
 ├── 1042-flower-planting-with-no-adjacent.ts
