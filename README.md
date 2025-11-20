@@ -123,6 +123,7 @@ The main files and their functions are as follows:
 ├── 2675-array-of-objects-to-matrix.js
 ├── 2676-throttle.js
 ├── 2677-chunk-array.js
+├── 2682-find-the-losers-of-the-circular-game.ts
 ├── 2693-call-function-with-custom-context.js
 ├── 2694-event-emitter.js
 ├── 2695-array-wrapper.js
