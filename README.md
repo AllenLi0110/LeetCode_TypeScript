@@ -124,6 +124,7 @@ The main files and their functions are as follows:
 ├── 2676-throttle.js
 ├── 2677-chunk-array.js
 ├── 2682-find-the-losers-of-the-circular-game.ts
+├── 2683-neighboring-bitwise-xor.ts
 ├── 2693-call-function-with-custom-context.js
 ├── 2694-event-emitter.js
 ├── 2695-array-wrapper.js
